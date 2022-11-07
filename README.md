@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zuxriddin093
 - 👀 I’m interested in ...android 
-- 🌱 I’m currently learning ...c++ kotlin
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ...c++ & photoshop
+- 💞️ I’m looking to collaborate on ... games
+- 📫 How to reach me ...t.me/zuxriddin093 
 
 <!---
 zuxriddin093/zuxriddin093 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
